@@ -25,4 +25,4 @@
 
 ## ⭐ GitHub 통계
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[GitHub 사용자 이름]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default_repocard)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinterLimited&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default_repocard)
